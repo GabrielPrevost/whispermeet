@@ -1,0 +1,1 @@
+OpenAI API key not found. Transcription skipped.
